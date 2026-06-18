@@ -20,8 +20,7 @@ A Spotify-inspired music streaming user interface built using HTML5 and CSS3. Th
 
 ## Project Preview
 
-
-
+![Home](screenshots/homePage.png)
 
 
 ## Author
